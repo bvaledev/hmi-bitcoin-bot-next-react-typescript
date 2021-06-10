@@ -50,3 +50,5 @@ In main api route for mercadobitcoin, you pass maxBy parameter, its used in chec
 Keep your key secure.
 
 For more informations, acess the NodeJS tutorial [LuizTools - Bot de compra e venda](https://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-node-js/)
+
+Contact - [linkedin](https://www.linkedin.com/in/brendomkt/)
