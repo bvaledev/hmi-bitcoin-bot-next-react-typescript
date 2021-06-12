@@ -21,7 +21,7 @@ This app does't use great patterns, just created for study.
 
 > ## Advise
 
-Use it with you own risk, i'm not responsablized for lose or profit of values.
+Use it with you own risk, I'm not responsible for losing or profiting of values.
 Keep your key secure.
 
 > ## Info
@@ -46,7 +46,7 @@ You can see your money values in header of the page on right side.
 
 In main api route for mercadobitcoin, you pass maxBy parameter, its used in checkPrice, this function check the current ticker value and compare with you max value to make a transaction.
 
-**Remember** Use it with you own risk, i'm not responsablized for lose or profit of values.
+**Remember** Use it with you own risk,  I'm not responsible for losing or profiting of values.
 Keep your key secure.
 
 For more informations, acess the NodeJS tutorial [LuizTools - Bot de compra e venda](https://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-node-js/)
